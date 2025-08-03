@@ -1,0 +1,4 @@
+name: NoobiCore
+main: com.scratchernoobyt.noobicore.NoobiCore
+version: 1.2
+api-version: 1.21
